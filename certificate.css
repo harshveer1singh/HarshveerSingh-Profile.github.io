@@ -1,0 +1,139 @@
+.maindiv h1{
+    font-size: 40px;
+    position: absolute;
+    left: 490px;
+    top: 50px;
+    text-align: center;
+    color: #00fdca;
+}
+.maindiv h1 small{
+    font-size: small;
+    font-family: cursive;
+}
+/* ----------------------------------------------------------------------------------------------------------- */
+#img1 img{
+    position: absolute;
+    top: 100px;
+    left: 10px;
+    width: 200px;
+    margin: 10px;
+}
+#img1 pre{
+    position: absolute;
+    top: 265px;
+    left: 10px;
+    width: 200px;
+    margin: 10px;
+}
+/* -------------------------------------------------------------------------------------------------------- */
+#img2 img{
+    position: absolute;
+    top: 100px;
+    left: 834px;
+    width: 200px;
+    margin: 10px;
+}
+#img2 pre{
+    position: absolute;
+    top: 390px;
+    left: 834px;
+    width: 200px;
+    margin: 10px;
+}
+/* ----------------------------------------------------------------------------------------------------------- */
+
+#img3 img{
+    position: absolute;
+    top: 100px;
+    left: 628px;
+    width: 200px;
+    margin: 10px;
+}
+#img3 pre{
+    position: absolute;
+    top: 250px;
+    left: 628px;
+    width: 200px;
+    margin: 10px;
+}
+/* ------------------------------------------------------------------------------------------------------------ */
+
+#img4 img{
+    position: absolute;
+    top: 100px;
+    left: 420px;
+    width: 200px;
+    margin: 10px;
+}
+#img4 pre{
+    position: absolute;
+    top: 250px;
+    left: 420px;
+    width: 200px;
+    margin: 10px;
+}
+/* ------------------------------------------------------------------------------------------------------------ */
+#img5 img{
+    position: absolute;
+    top: 100px;
+    left: 1043px;
+    width: 200px;
+    margin: 10px;
+}
+#img5 pre{
+    position: absolute;
+    top: 390px;
+    left: 1033px;
+    width: 200px;
+    margin: 10px;
+}
+/* ------------------------------------------------------------------------------------------------------------ */
+#img6 img{
+    position: absolute;
+    top: 350px;
+    left: 550px;
+    width: 200px;
+    margin: 10px;
+}
+#img6 pre{
+    position: absolute;
+    top: 500px;
+    left: 550px;
+    width: 200px;
+    margin: 10px;
+}
+/* ---------------------------------------------------------------------------------------------------------- */
+#img7 img{
+    position: absolute;
+    top: 350px;
+    left: 340px;
+    width: 200px;
+    margin: 10px;
+}
+#img7 pre{
+    position: absolute;
+    top: 500px;
+    left: 340px;
+    width: 200px;
+    margin: 10px;
+}
+#img7 pre a{
+    color: crimson;
+}
+/* ----------------------------------------------------------------------------------------------------------- */
+#img8 img{
+    position: absolute;
+    top: 100px;
+    left: 217px;
+    width: 200px;
+    margin: 10px;
+}
+#img8 pre{
+    position: absolute;
+    top: 260px;
+    left: 217px;
+    width: 200px;
+    margin: 10px;
+}
+
+
